@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav-soni/bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/keshav-soni/bootstrap/issues"
+  },
+  "homepage": "https://github.com/keshav-soni/bootstrap#readme"
 }
